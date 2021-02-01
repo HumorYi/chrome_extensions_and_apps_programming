@@ -1,0 +1,1 @@
+在官方文档中可以找到完整的Manifest属性列表，扩展在[https://developer.chrome.com/extensions/manifest]，应用在[https://developer.chrome.com/apps/manifest]。由于Google更新得非常频繁，上述页面内容可能会经常变动，但那些比较基本的属性变动的几率不会很大。

@@ -1,0 +1,9 @@
+{
+  "manifest_version": 2,
+  "name": "desktop-notifications",
+  "version": "1.0",
+  "description": "desktop-notifications",
+  "background": { "scripts": ["js/background.js"] },
+  "permissions": ["notifications"],
+  "web_accessible_resources": ["images/*.png"]
+}
